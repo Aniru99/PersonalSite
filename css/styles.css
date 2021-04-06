@@ -1,0 +1,17 @@
+body {
+  background-color: hsl(120, 100%, 89%);
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 6px;
+  width: 5%;
+}
+h1{
+    text-align: center;
+    background-color: lightblue;
+}
+h3{
+  color:red;
+}
